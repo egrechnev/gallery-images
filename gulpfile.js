@@ -81,7 +81,7 @@ gulp.task('build', ['removedist', 'styles', 'js'], function() {
 		]).pipe(gulp.dest('dist/css'));
 
 	var buildFiles = gulp.src([
-		'app/.htaccess'
+		'app/.htaccess','app/*.json'
 	]).pipe(gulp.dest('dist'));
 
 	var buildJs = gulp.src([
