@@ -5,4 +5,4 @@
 	<li>Run: <strong>gulp</strong>.</li>
 </ol>
 
-### [Demo](https://egrechnev.github.io/gallery-images/)
+### [Demo](https://egrechnev.github.io/gallery-images/dist/)
